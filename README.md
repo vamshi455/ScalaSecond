@@ -1,7 +1,8 @@
 <p># WWIDW_SPARK_SCALA</p>
 <h3><span style="color: #0000ff;"><br />Project Name: <strong>WWIDW_SPARK_SCALA</strong></span></h3>
 <p>Project Creator: VAMSHI SINGAM (https://www.linkedin.com/in/vamshi-singam-82963556/)</p>
-<p>Contributors&nbsp; &nbsp;:SKILLSET USED&nbsp; :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>Contributors&nbsp; &nbsp;:</p>
+<p>SKILLSET USED&nbsp; :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p><span style="color: #000080;"><strong>SPARK 2.4.4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></span></p>
 <p><span style="color: #000080;"><strong>SCALA 2.12.10</strong></span></p>
 <p><span style="color: #000080;"><strong>INTELLIJ 2019 3.2 COMMUNITY EDITION&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></span></p>
