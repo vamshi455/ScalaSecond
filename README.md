@@ -2,8 +2,8 @@
 
 Project Name: WWIDW_SPARK_SCALA
 Project Creator: VAMSHI SINGAM (https://www.linkedin.com/in/vamshi-singam-82963556/)
-Contributors :
-SKILLSET USED :
+Contributors   :
+SKILLSET USED  :
             SPARK 2.4.4
             SCALA 2.12.10
             INTELLIJ 2019 3.2 COMMUNITY EDITION
